@@ -7,3 +7,6 @@ resources:
 images:
 - name: seyio/react-test
   newTag: latest
+replicas:
+- count: 3
+  name: nginx-app-deployment
