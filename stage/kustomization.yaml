@@ -8,5 +8,5 @@ images:
 - name: seyio/react-test
   newTag: latest
 replicas:
-- count: 3
+- count: 1
   name: nginx-app-deployment
