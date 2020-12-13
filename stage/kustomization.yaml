@@ -6,4 +6,4 @@ resources:
 - ../base
 images:
 - name: seyio/react-test
-  newTag: 1243f765
+  newTag: 0f5afca4
